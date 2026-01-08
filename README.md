@@ -21,6 +21,7 @@ npm install
 npm install date-fns@2.30.0
 
 2. Start the development server:
+
 npm run dev
 
 3. Open the link in your browser to see the clock.
